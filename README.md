@@ -1,12 +1,14 @@
 # Sandwich Ingredient Identification
 
- Add short description of project here > 
+My project helps people who have many foods they are allergic to or dislike. Using AI, my project helps cut down on the time and effort dedicated to finding something to eat.
 
-![add image descrition here](direct image link here)
+Though I hope to expand on this project, it currently only classfies sandwiches as either having tomatoes and eggs ("deluxe"), having tomatoes ("veggie"), or having neither ("plain").
+
+![Sandwiches that contain both tomatoes and eggs are classified as "deluxe"](https://imgur.com/a/S6jOevH)
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+I used a Jetson Nano to complete this project.
 
 ## Running this project
 
