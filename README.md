@@ -8,11 +8,14 @@ Though I hope to expand on this project, it currently only classfies sandwiches 
 
 ## The Algorithm
 
-I used a Jetson Nano to complete this project.
+I used a Jetson Nano to complete this project. Using a resnet18 model retrained with images of three classes of sandwiches, imagenet is then able to classify any sandwich into these groups. 
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. Download my code from the GitHub project onto your Jetson Nano
+2. To classify an image under data/sandwich/test/deluxe, run `imagenet  --model=models/sandwich/resnet18.onnx --labels=data/sandwich/labels.txt --input_blob=input_0 --output_blob=output_0 data/sandwich/test/deluxe data/sandwich/test_deluxe_output`
+3. The result will be output in data/sandwich/test_deluxe_output.
+4. To see the result, scp the outputted file from the Jetson Nano onto your computer or if Visual Studio Code has been set up, view the file there.
+
 
 [View a video explanation here](video link)
