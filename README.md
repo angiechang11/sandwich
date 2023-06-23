@@ -1,4 +1,4 @@
-# Sandwich Ingredient Identification
+# Sandwich Ingredient Identifier
 
 My project helps people who have many foods they are allergic to or dislike. Using AI, my project helps cut down on the time and effort dedicated to finding something to eat.
 
@@ -18,4 +18,4 @@ I used a Jetson Nano to complete this project. Using a resnet18 model retrained 
 4. To see the result, scp the outputted file from the Jetson Nano onto your computer or if Visual Studio Code has been set up, view the file there.
 
 
-[View a video explanation here](video link)
+[Video Demo](https://youtu.be/5wYSKe4doLY)
