@@ -4,7 +4,7 @@ My project helps people who have many foods they are allergic to or dislike. Usi
 
 Though I hope to expand on this project, it currently only classfies sandwiches as either having tomatoes and eggs ("deluxe"), having tomatoes ("veggie"), or having neither ("plain").
 
-![Sandwiches that contain both tomatoes and eggs are classified as "deluxe"](https://imgur.com/9CUV0sV)
+![Sandwiches that contain both tomatoes and eggs are classified as "deluxe"](https://i.imgur.com/9CUV0sV.jpeg)
 
 ## The Algorithm
 
